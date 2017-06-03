@@ -1,2 +1,2 @@
 # facebook-react-tutorial
-Sample code from the facebook.github.io website
+Sample code snippets from https://facebook.github.io/react/
